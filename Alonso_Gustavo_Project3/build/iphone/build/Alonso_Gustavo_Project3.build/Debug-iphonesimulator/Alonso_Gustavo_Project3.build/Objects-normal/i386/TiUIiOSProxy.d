@@ -1,0 +1,60 @@
+dependencies: \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIiOSProxy.m \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIiOSProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiBase.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiThreading.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiPublicAPI.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiEvaluator.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/KrollContext.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/headers/TiCore/TiCore.h \
+  headers/TiCore/Ti.h headers/TiCore/TiBase.h \
+  headers/TiCore/TiContextRef.h headers/TiCore/TiObjectRef.h \
+  headers/TiCore/TiValueRef.h headers/TiCore/WebKitAvailability.h \
+  headers/TiCore/TiStringRef.h headers/TiCore/TiStringRefCF.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/headers/TiCore/TiContextRefPrivate.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/KrollCallback.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/KrollObject.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiBindingRunLoop.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIiOSAdViewProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIViewProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiViewProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIView.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiAnimation.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiPoint.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiDimension.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiColor.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/ListenerEntry.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiModule.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUtils.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/WebFont.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiFile.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiBuffer.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiBlob.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/LayoutConstraint.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiGradient.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiRect.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiViewTemplate.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/Webcolor.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIiOSTransitionAnimationProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIiOSAttributedStringProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/Ti3DMatrix.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIiOSCoverFlowViewProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIiOSToolbarProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiToolbar.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIiOSTabbedBarProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIiOSDocumentViewerProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiUIiOSNavWindowProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiWindowProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiTab.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiTabGroup.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiViewController.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiControllerProtocols.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiAnimatorProxy.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiSnapBehavior.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiPushBehavior.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiGravityBehavior.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiAnchorAttachBehavior.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiViewAttachBehavior.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiCollisionBehavior.h \
+  /Users/alonso/Downloads/Archive/Alonso_Gustavo_Project3/build/iphone/Classes/TiDynamicItemBehavior.h
