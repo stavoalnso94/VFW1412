@@ -1,0 +1,69 @@
+var pWidth = Ti.Platform.displayCaps.platformWidth;
+var pHeight = Ti.Platform.displayCaps.platformHeight;
+
+var gallery = Ti.Filesystem.getFile(Ti.Filesystem.resourcesDirectory, "imageFiles/");
+var galleryList = gallery.getDirectoryListing();
+
+var itemCount = 30;
+var rowCount = 3;
+var margin = 5;
+
+var trueCanvasWidth = pWidth - margin * (rowCount+1);
+var size = trueCanvasWidth/rowCount;
+
+var mainWin = Ti.UI.createWindow({
+	backgroundColor: "#cecece",
+	layout: "horizontal",
+	statusBarStyle: Ti.UI.iPhone.StatusBar.GREY
+});
+
+var newWin = Ti.UI.createWindow({
+	backgroundColor: "green"
+});
+
+var viewContainer = Ti.UI.createScrollView({
+	layout: "horizontal",
+	width: pWidth,
+	contentWidth: pWidth,
+	height: pHeight - 20,
+	top: 20,
+	backgroundColor: "#fef",
+	showVerticalScrollIndicator: true
+});
+
+for(var i = 0; i<itemCount; i++){
+	var theImage = Ti.UI.createImageView({
+	 	image: "imageFiles/" + galleryList[i],
+	 	top: margin,
+		left: margin,
+		width: size,
+		height: size,
+		borderRadius: 10
+	 	
+	 });
+	/*var view = Ti.UI.createView({
+		backgroundColor: "#33CCFF",
+		image: "imageFiles/" + galleryList,
+		top: margin,
+		left: margin,
+		width: size,
+		height: size,
+	});*/
+	// var text = Ti.UI.createLabel({text: i+1, color: "#fff"});
+	// view.add(text);
+	viewContainer.add(theImage);
+}
+//==========================================================================================================================
+
+// for (var i = 0; i<galleryList.length; i++){
+	 // var theImage = Ti.UI.createImageView({
+	 	// image: "imageFiles/" + galleryList[i],
+	 	// height: "25%",
+	 	// top: 25
+	 // });
+// }
+
+
+mainWin.add(theImage);
+mainWin.add(viewContainer);
+mainWin.open();

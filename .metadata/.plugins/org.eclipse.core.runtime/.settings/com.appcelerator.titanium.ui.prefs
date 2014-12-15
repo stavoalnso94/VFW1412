@@ -1,0 +1,15 @@
+=run
+8.3\ imageView\:launchMode=run
+8.3\ imageView\:launchShortcut=com.appcelerator.titanium.mobile.ui.android.device.launchShortcut
+8.4\ scrollViews\:launchMode=run
+8.4\ scrollViews\:launchShortcut=com.appcelerator.titanium.mobile.ui.ios.simulator.ipad.launchShortcut.BB099BEA-C31F-42B4-8FDF-AC17A014BC26
+8.5\ imageTimer\:launchMode=run
+8.5\ imageTimer\:launchShortcut=com.appcelerator.titanium.mobile.ui.ios.simulator.ipad.launchShortcut.BB099BEA-C31F-42B4-8FDF-AC17A014BC26
+Alonso_Gustavo_Project3\:launchMode=run
+Alonso_Gustavo_Project3\:launchShortcut=com.appcelerator.titanium.mobile.ui.ios.simulator.iphone.launchShortcut.04DB7491-9D6A-4652-83B2-D10E1ACDB6C3
+LAST_LAUNCH_TIMESTAMP=1418593870952
+eclipse.preferences.version=1
+preference.show.console.onError=true
+preference.studio.perspective.version=103
+test\:launchMode=run
+test\:launchShortcut=com.appcelerator.titanium.mobile.ui.ios.simulator.ipad.launchShortcut.BB099BEA-C31F-42B4-8FDF-AC17A014BC26
